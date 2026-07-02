@@ -59,4 +59,4 @@ git clone https://github.com/BEGINNERUSER-git/codealpha_tasks.git
 
 cd task1
 
-pip install -r requirements.txt
+pip install -r requirement.txt
